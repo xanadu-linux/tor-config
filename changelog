@@ -1,4 +1,16 @@
-commit 4b5374aa1c392291bc7e6edcae999774b72e7dd0 (HEAD, origin/master, origin/HEAD, master)
+commit c08dd8cfa85f975636c9578fcd65a7375ea36122 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Thu Apr 7 21:47:50 2016 -0430
+
+    * se agrega la opcion "hiddenservicestatistics 1"
+
+commit bdc4feb9e8b7fa7190590e18fc25c9e96af91f0e (tag: v0.1)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 21:45:36 2016 -0430
+
+    * changelog
+
+commit 4b5374aa1c392291bc7e6edcae999774b72e7dd0
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Apr 5 21:45:14 2016 -0430
 
