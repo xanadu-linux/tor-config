@@ -211,3 +211,4 @@ CookieAuthFile /run/tor/control.authcookie
 Log notice file /var/log/tor/log.tor
 ClientTransportPlugin obfs4 exec /usr/bin/obfs4proxy
 HardwareAccel 1
+HiddenServiceStatistics 1
