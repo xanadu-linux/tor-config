@@ -1311,7 +1311,7 @@ enable-proxy-authentication-forwarding 0
 #      To chain Privoxy and Tor, both running on the same system, you
 #      would use something like:
 #
-forward   /               127.0.0.1:8123
+forward-socks4a   / localhost:9151 .
 #
 #      The public Tor network can't be used to reach your local
 #      network, if you need to access local servers you therefore
