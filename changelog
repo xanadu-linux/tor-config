@@ -1,10 +1,22 @@
-commit c2850b34f3efb4e0cd3d7e062eb837c72e81ed06 (HEAD, origin/master, origin/HEAD, master)
+commit 85199653e2c00156b76b695ddda9b811338966ff (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 19 21:13:20 2017 -0400
+
+    * se elimina polipo
+
+commit b8836241c42797ff8714e1c2c84af62a98efaf6c
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 17 21:10:52 2016 -0430
+
+    * changelog
+
+commit c2850b34f3efb4e0cd3d7e062eb837c72e81ed06
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Apr 17 21:10:44 2016 -0430
 
     * zenodo
 
-commit f28dc081b70db21b6f2623d3cbbbfe7320ef8e3b
+commit f28dc081b70db21b6f2623d3cbbbfe7320ef8e3b (tag: v0.1.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 11:47:32 2016 -0430
 
